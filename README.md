@@ -2,6 +2,13 @@
 tz-intertrans but in Python, because Python is much, much faster to create something simple
 
 
+## Using the project
+
+1. clone repo, cd into repo
+2. activate environment for dependencies with `source venv/bin/activate`
+3. `cd src`
+4. `python3 main.py`
+
 ## Features/TODO
 - [ ] input localtime/UTC/TZ -> output list of TZ times
 - [ ] toml configuration file
@@ -10,3 +17,4 @@ tz-intertrans but in Python, because Python is much, much faster to create somet
 
 ## Contributing
 tz-intertrans is the main project, and this is the super fast mockup *for now*.
+
