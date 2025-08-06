@@ -11,7 +11,7 @@ tz-intertrans but in Python, because Python is much, much faster to create somet
 4. `python3 main.py`
 
 ## Features/TODO
-- [ ] input localtime/UTC/TZ -> output list of TZ times
+- [x] input localtime/UTC/TZ -> output list of TZ times
 - [ ] toml configuration file
 - [ ] cli interface for interaction?
 
