@@ -1,0 +1,7 @@
+# Config file
+# Any blank lines or lines starting with # are ignored
+# Each line is in the format TIMEZONE COMMENT
+
+UTC Greenwich
+Asia/Shanghai China
+America/Los_Angeles LA

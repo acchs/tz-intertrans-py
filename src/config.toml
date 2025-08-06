@@ -1,0 +1,10 @@
+# Store timezones as array of tables
+
+# Example:
+#[[storedzone]]
+#storedtz="UTC" # any recognized timezone abbreviations
+#storedlocation="Greenwich" # comment for location
+
+[[storedzone]]
+storedtz="EST"
+storedlocation="New York"
